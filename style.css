@@ -1,0 +1,56 @@
+body{
+    overflow-x: hidden;
+}
+.sectionone{
+    background-image: url(resources/bg1.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: black;
+}
+
+.btn{
+    background-color: #115ccc;
+    border: none;
+}
+
+.sectionthree{
+    background-image: url(resources/bg2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.sectionfive{
+    background-color: white;
+}
+.sectionsix{
+    background-color: white;
+}
+.bgcontent{
+    background-image: url(resources/bg3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.problemone{
+    background-image: url(resources/prbl1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.solutionone{
+    background-image: url(resources/slt1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.problemtwo{
+    background-image: url(resources/prbl2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.solutiontwo{
+    background-image: url(resources/slt2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
